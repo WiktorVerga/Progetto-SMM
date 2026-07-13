@@ -1,0 +1,8 @@
+.venv
+.claude
+.idea
+
+/data/*
+
+*.csv
+*.jsonl
