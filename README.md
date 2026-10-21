@@ -13,7 +13,7 @@ The project collects a full year of Reddit discussions (2024) from six subreddit
 ![NetworkX](https://img.shields.io/badge/NetworkX_·_igraph_·_Leiden-2b3034)
 
 <p align="center">
-  <img src="docs/screenshots/report-cover.png" width="80%" alt="Report cover: AI in professional settings, perception and social network on Reddit" />
+  <img src="docs/report-cover.png" width="80%" alt="Report cover: AI in professional settings, perception and social network on Reddit" />
 </p>
 <p align="center">
   <img src="docs/sentiment-by-subreddit.png" width="49%" alt="Net sentiment per subreddit with chi-square test" />
